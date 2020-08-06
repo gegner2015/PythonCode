@@ -7,3 +7,5 @@ def Fabonaci(n):
         return Fabonaci(n-1)+Fabonaci(n-2)
 
 print(Fabonaci(25))
+
+print(5555)
