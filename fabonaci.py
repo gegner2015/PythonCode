@@ -2,7 +2,7 @@ def fabonaci(n):
     n1=1
     n2=1
     n3=1
-#123123
+
     if(n<1):
         return -1
     while(n-2)>0:

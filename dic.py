@@ -9,5 +9,5 @@ dict2={}
 
 dict2.fromkeys((1,2,3),'123')
 
-print(dict2.keys()) #123
+print(dict2.keys())
 
